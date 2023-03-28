@@ -1,0 +1,26 @@
+# 
+# GPT-Lamens
+# File: index.gpt
+# Title: GPT CL
+# Input Lang: GPT-CL Psudocode (Layman's Code)
+# Output Language: HTML
+# Code Comments: basic
+
+The following comments should be interpreted into HTML code to generate an index.html removing all comments starting with the line // from the output HTML after interpretation:
+
+// HTML Title = GPT CL
+
+// HTML Description = Write Code Effortlessly!
+
+// Include assets/css/main.css
+
+// Show an HTML Navigation header with the GPT-CL text as a logo in the color of the sky with a fade to fully transparent on the text
+
+// In that same HTML Navigation header add a navigation bar with one menu item linking to GitHub.com
+
+// Add a Call To Action Header that says Write Code Effortlessly! And then shows a typing animation effect with the text: // Write A Hello World Javascript App
+
+// Add a description block with the following text
+"GPT-CL is an AI-driven natural language programming language (NLPL) that allows you to code without needing to learn a traditional programming language. With GPT-CL, programming concepts and operations are described using simple English, making it easily readable and understandable for both non-programmers and experts alike."
+
+// Add a footer with text that says GPT-CL Write Code Effortlessly!

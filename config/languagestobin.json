@@ -1,0 +1,94 @@
+{
+  "JSON": {
+    "binary": "None",
+    "command": "None"
+  },
+  "Javascript": {
+    "binary": "node",
+    "command": "node <file>"
+  },
+  "Python": {
+    "binary": "python",
+    "command": "python <file>"
+  },
+  "C": {
+    "binary": "gcc",
+    "command": "gcc <file> -o <output> && ./<output>"
+  },
+  "C++": {
+    "binary": "g++",
+    "command": "g++ <file> -o <output> && ./<output>"
+  },
+  "C#": {
+    "binary": "csc",
+    "command": "csc <file> && <file>.exe"
+  },
+  "Clojure": {
+    "binary": "clojure",
+    "command": "clojure <file>"
+  },
+  "CSS": {
+    "binary": "None",
+    "command": "None"
+  },
+  "Dockerfile": {
+    "binary": "docker",
+    "command": "docker build -t <image> <path>"
+  },
+  "Elixir": {
+    "binary": "elixir",
+    "command": "elixir <file>"
+  },
+  "Go": {
+    "binary": "go",
+    "command": "go run <file>"
+  },
+  "HTML": {
+    "binary": "None",
+    "command": "None"
+  },
+  "Java": {
+    "binary": "java",
+    "command": "javac <file>.java && java <file>"
+  },
+  "Julia": {
+    "binary": "julia",
+    "command": "julia <file>"
+  },
+  "Kotlin": {
+    "binary": "kotlinc",
+    "command": "kotlinc <file> -include-runtime -d <output>.jar && java -jar <output>.jar"
+  },
+  "Lua": {
+    "binary": "lua",
+    "command": "lua <file>"
+  },
+  "Markdown": {
+    "binary": "None",
+    "command": "None"
+  },
+  "Pascal": {
+    "binary": "fpc",
+    "command": "fpc <file> && ./<file>"
+  },
+  "PHP": {
+    "binary": "php",
+    "command": "php <file>"
+  },
+  "Ruby": {
+    "binary": "ruby",
+    "command": "ruby <file>"
+  },
+  "Rust": {
+    "binary": "rustc",
+    "command": "rustc <file> && ./<file>"
+  },
+  "SQL": {
+    "binary": "None",
+    "command": "None"
+  },
+  "YAML": {
+    "binary": "None",
+    "command": "None"
+  }
+}

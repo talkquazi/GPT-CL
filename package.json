@@ -1,0 +1,31 @@
+{
+  "name": "gpt-cl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "homepage": "https://github.com/talkquazi/GPT-CL",
+  "bin": {
+    "gptcl": "./bin/gptcl.js"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris McCaulley <talkquazi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.4",
+    "flourite": "^1.2.2",
+    "github-linguist": "^2.4.4",
+    "js-yaml": "^4.1.0",
+    "language-detector": "^1.0.1",
+    "mime-types": "^2.1.35",
+    "openai": "^3.1.0",
+    "p-map": "^4.0.0",
+    "readline": "^1.3.0",
+    "retry-as-promised": "^7.0.3"
+  }
+}

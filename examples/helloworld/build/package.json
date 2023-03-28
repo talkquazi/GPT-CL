@@ -1,0 +1,20 @@
+
+// - express
+
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello World NodeJS package.json",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest test.js"
+  },
+  "dependencies": {
+    "jest": "^24.9.0",
+    "express": "^4.17.1"
+  }
+}</code>
+
+
+

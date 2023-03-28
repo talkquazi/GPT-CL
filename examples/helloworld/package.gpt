@@ -1,0 +1,16 @@
+#
+# GPT-Lamens
+# File: package.json
+# Title: Hello World NodeJS package.json
+# Input Lang: GPT-CL Psudocode (Layman's Code)
+# Output Lang: NodeJS Package JSON
+# Code Comments: none
+
+// NodeJS Package Title is Hello World
+
+// The Start Script Should Run node server.js
+
+// The Test Script Should Run jest with test.js
+
+// The package json should have the dependencies:
+// - jest

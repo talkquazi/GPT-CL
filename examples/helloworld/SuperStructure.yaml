@@ -1,0 +1,8 @@
+- index.gpt
+- anotherfolder:
+    - anotherfolder:
+        - file.js
+- music:
+    - something.mp3
+- package.gpt
+- test.gpt
